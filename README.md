@@ -3,7 +3,7 @@
 𝑰𝒕'𝒔 𝒂𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒚𝒐𝒖 𝒕𝒐 𝒑𝒓𝒂𝒄𝒕𝒊𝒄𝒆 𝒃𝒆𝒊𝒏𝒈 𝒘𝒉𝒐 𝒚𝒐𝒖 𝒔𝒂𝒚 𝒚𝒐𝒖 𝒂𝒓𝒆.</h2>
 
 ![github contribution grid snake animation](https://github.com/almutenmars/almutenmars/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://github.com/almutenmars/almutenmars/blob/output/github-contribution-grid-snake-dark.svgg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/almutenmars/almutenmars/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <hr/>
 
