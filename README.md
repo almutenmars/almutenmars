@@ -14,7 +14,7 @@
 
 **_Non-Tech:_**      
 <ul>
-<li>Jungian cognitive functions </li>
+<li>Jungian Cognitive Functions</li>
 <li>Enneagram</li>
 <li>Philosophy (especially Tao Te Ching)</li>
 <li>Traditional Astrology (Medieval, Hellenistic)</li>
@@ -28,8 +28,8 @@
 <ul>
 <li>Software Development</li>
 <li>Game Development</li>
-<li>Artificial intelligence and Machine learning</li>
-<li>Disruptive technology</li>
+<li>Artificial Intelligence and Machine Learning</li>
+<li>Disruptive Technology</li>
 </ul>
 
 <br/>
@@ -57,7 +57,7 @@ welp, my hobbies and interests will never stop expanding!! u know, it's Ne ✨tH
 
 .・。.・゜✭・.・✫・゜・。.・。.・゜✭・.・✫・゜・。.・。.・゜✭・.・✫・゜・。.
 
-<h2>"𝒕𝒉𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 𝒊𝒔𝒏'𝒕 𝒕𝒓𝒖𝒍𝒚 𝒑𝒖𝒕𝒕𝒊𝒏𝒈 𝒚𝒐𝒖 𝒕𝒐 𝒕𝒉𝒆 𝒕𝒆𝒔𝒕.<br/>
+<h2>"𝒕𝒉𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 𝒊𝒔𝒏'𝒕 𝒕𝒓𝒖𝒍𝒚 𝒑𝒖𝒕𝒕𝒊𝒏𝒈 𝒚𝒐𝒖 𝒕𝒐 𝒕𝒉𝒆 𝒕𝒆𝒔𝒕.
 𝑰𝒕'𝒔 𝒂𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒚𝒐𝒖 𝒕𝒐 𝒑𝒓𝒂𝒄𝒕𝒊𝒄𝒆 𝒃𝒆𝒊𝒏𝒈 𝒘𝒉𝒐 𝒚𝒐𝒖 𝒔𝒂𝒚 𝒚𝒐𝒖 𝒂𝒓𝒆."<br/>
 &nbsp;
 </h2>
