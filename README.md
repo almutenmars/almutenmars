@@ -22,7 +22,6 @@
 <li>New Age Spirituality and the Occult</li>
 </ul>
 
-
 <br/>
 
 **_Tech:_**
@@ -32,6 +31,24 @@
 <li>Artificial intelligence and Machine learning</li>
 <li>Disruptive technology</li>
 </ul>
+
+<br/>
+
+
+<!-- **_Hobbies:_**
+
+<ul>
+<li>Drawing</li>
+<li>Coding</li>
+<li>Inline Skating</li>
+<li>Photography (X-T2 user)</li>
+<li>Series and Anime</li>
+<li>Spending times in Metaverse (LMAO)</li>
+<li>Listening to podcasts or music</li>
+<li>Learning new language</li>
+</ul>
+welp, my hobbies and interests will never stop expanding!! u know, it's Ne ✨tHinGS✨ -->
+
 </div>
 
 <br/>
